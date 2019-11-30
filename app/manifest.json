@@ -1,0 +1,17 @@
+{
+    "name": "Apple Music",
+    "description": "All The Ways You Love Music. All in One Place.",
+    "version": "1",
+    "manifest_version": 2,
+    "icons": {
+      "1024": "1024.png"
+    },
+    "app": {
+      "urls": [
+        "https://beta.music.apple.com"
+      ],
+      "launch": {
+        "web_url": "https://beta.music.apple.com"
+      }
+    }
+  }
